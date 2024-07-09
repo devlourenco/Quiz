@@ -1,9 +1,9 @@
 import { Text, View, StyleSheet} from "react-native";
 
-export default function Quiz() {
+export default function Edit() {
     return (
         <View style={styles.container} className="w-full h-full">
-            <Text>Teste</Text>
+         <Text>eh os guri</Text>
         </View>
     )
 }
